@@ -250,7 +250,7 @@ public class Calculator extends JFrame {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new Calculator("Calculator");
+        JFrame frame = new Calculator("SNS Calculator");
         frame.setVisible(true);
         frame.setSize(700,350);
     }
